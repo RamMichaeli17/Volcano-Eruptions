@@ -1,0 +1,361 @@
+volcanoName,startDate,endDate,SO2_Mass_kt,SO2_Altitude
+Chikurachki,2016 Mar 30,2016 Mar 30,4.000,6.8
+Pavlof,2016 Mar 27,2016 Mar 27,20.000,9.0
+Soputan,2016 Jan 05,2016 Jan 05,3.000,11.8
+Fuego,2016 Jan 04,2016 Jan 20,2.000,7.0
+Fuego,2016 Feb 10,2016 Feb 10,1.000,7.0
+Soputan,2016 Feb 06,2016 Feb 06,5.000,7.0
+Telica,2015 Nov 22,2015 Nov 22,1.000,2.4
+Kuchinoerabujima,2015 May 29,2015 May 29,4.000,9.0
+Wolf,2015 May 25,2015 May 25,200.000,6.7
+"Fournaise, Piton de la",2015 May 18,2015 May 18,2.000,7.6
+Villarrica,2015 Mar 03,2015 Mar 03,5.000,10.0
+"Fournaise, Piton de la",2015 Jul 31,2015 Jul 31,2.000,7.6
+Manam,2015 Jul 31,2015 Jul 31,50.000,19.0
+Zhupanovsky,2015 Jul 12,2015 Jul 12,10.000,10.0
+Sheveluch,2015 Feb 24,2015 Mar 16,15.000,7.0
+Ambrym,2015 Feb 21,2015 Feb 21,20.000,6.3
+Chikurachki,2015 Feb 16,2015 Feb 16,5.000,8.0
+Fuego,2015 Feb 07,2015 Feb 07,2.000,5.0
+"Fournaise, Piton de la",2015 Feb 04,2015 Feb 04,3.000,7.6
+Soputan,2015 Feb 02,2015 Feb 02,2.000,6.0
+Etna,2015 Dec 03,2015 Dec 03,25.000,13.0
+Momotombo,2015 Dec 02,2015 Dec 02,1.500,2.0
+"Fournaise, Piton de la",2015 Aug 25,2015 Aug 25,2.000,7.6
+Cotopaxi,2015 Aug 14,2015 Aug 14,20.000,18.0
+Calbuco,2015 Apr 22,2015 Apr 22,400.000,20.0
+Ontakesan,2014 Sep 27,2014 Sep 27,1.000,10.0
+Sheveluch,2014 Sep 24,2014 Sep 24,5.000,12.0
+Turrialba,2014 Oct 30,2014 Oct 30,3.000,5.0
+Fogo,2014 Nov 23,2014 Nov 23,382.000,9.0
+Pavlof,2014 Nov 15,2014 Nov 15,46.000,12.0
+Sangeang Api,2014 May 30,2014 May 30,100.000,17.0
+Pacaya,2014 Mar 02,2014 Mar 02,2.000,5.0
+"Fournaise, Piton de la",2014 Jun 21,2014 Jun 21,1.000,7.6
+Zhupanovsky,2014 Jun 06,2014 Jun 06,227.000,6.0
+Pavlof,2014 Jun 03,2014 Jun 03,10.000,12.5
+Sinabung,2014 Jan 11,2014 Jan 11,20.000,7.0
+Kelud,2014 Feb 13,2014 Feb 13,200.000,19.0
+Hunga Tonga-Hunga Ha'apai,2014 Dec 24,2014 Dec 24,14.000,3.0
+Bardarbunga,2014 Aug 31,2014 Aug 31,11800.000,5.0
+Rabaul,2014 Aug 29,2014 Aug 29,31.000,18.0
+Etna,2013 Oct 26,2013 Oct 26,10.000,8.0
+Klyuchevskoy,2013 Oct 13,2013 Oct 20,55.000,7.0
+Klyuchevskoy,2013 Nov 19,2013 Nov 19,2.000,12.0
+Etna,2013 Nov 17,2013 Dec 30,40.000,4.0
+Cleveland,2013 May 05,2013 May 05,1.000,5.0
+Pavlof,2013 Jun 25,2013 Jun 25,5.000,12.5
+Etna,2013 Feb 28,2013 Feb 28,5.000,4.0
+Paluweh,2013 Feb 02,2013 Feb 02,40.000,17.0
+San Miguel,2013 Dec 29,2013 Dec 29,5.000,12.1
+Veniaminof,2013 Aug 12,2013 Aug 12,5.000,7.0
+Etna,2013 Apr 27,2013 Apr 27,7.000,4.0
+Manam,2013 Apr 13,2013 Apr 13,10.000,11.8
+Soputan,2012 Sep 18,2012 Sep 18,10.000,9.0
+Fuego,2012 Sep 13,2012 Sep 13,2.000,8.0
+San Cristobal (Nicaragua),2012 Sep 08,2012 Sep 08,5.000,3.5
+Bezymianny,2012 Sep 01,2012 Sep 01,3.000,12.0
+Tolbachik,2012 Nov 27,2012 Nov 27,200.000,10.0
+Etna,2012 Mar 04,2012 Apr 24,31.000,6.0
+Etna,2012 Jan 05,2012 Jan 05,6.500,9.0
+Etna,2012 Feb 09,2012 Feb 09,1.100,9.0
+San Cristobal (Nicaragua),2012 Dec 26,2012 Dec 26,1.000,4.5
+Copahue,2012 Dec 22,2012 Dec 22,500.000,10.0
+Soputan,2012 Aug 27,2012 Aug 27,2.000,12.0
+Tongariro,2012 Aug 06,2012 Aug 06,1.000,12.0
+"Hudson, Cerro",2011 Oct 26,2011 Oct 26,1.000,11.9
+Etna,2011 Nov 15,2011 Nov 15,4.800,11.0
+Nyamulagira,2011 Nov 07,2011 Nov 07,1719.000,8.1
+Grimsvotn,2011 May 21,2011 May 21,300.000,12.0
+Etna,2011 May 12,2011 May 12,6.000,6.0
+Planchon-Peteroa,2011 May 02,2011 May 02,1.000,6.0
+Nabro,2011 Jun 13,2011 Jun 13,3650.000,18.0
+Puyehue-Cordon Caulle,2011 Jun 04,2011 Jun 04,200.000,14.0
+Etna,2011 Jul 09,2011 Oct 23,52.700,4.0
+Soputan,2011 Jul 03,2011 Jul 03,10.000,14.0
+Tengger Caldera,2011 Jan 28,2011 Feb 12,24.000,4.0
+Kirishimayama,2011 Jan 26,2011 Jan 26,30.000,4.0
+Etna,2011 Jan 12,2011 Jan 12,7.000,7.0
+Kizimen,2011 Jan 01,2011 Jan 01,23.000,8.0
+Bulusan,2011 Feb 21,2011 Feb 21,1.200,5.0
+Etna,2011 Feb 18,2011 Feb 18,8.000,8.0
+Zubair Group,2011 Dec 18,2011 Dec 18,1.000,5.2
+Gamalama,2011 Dec 04,2011 Dec 04,8.000,6.0
+Soputan,2011 Aug 14,2011 Aug 14,2.000,4.0
+Etna,2011 Apr 10,2011 Apr 10,5.000,5.0
+Sheveluch,2010 Oct 27,2010 Oct 27,11.000,12.0
+"Fournaise, Piton de la",2010 Oct 15,2010 Oct 15,1.000,7.6
+Tengger Caldera,2010 Nov 29,2010 Nov 29,5.000,4.0
+Merapi,2010 Nov 04,2010 Nov 04,300.000,17.0
+Pacaya,2010 May 28,2010 May 28,23.000,18.0
+"Fournaise, Piton de la",2010 Jan 11,2010 Jan 11,1.000,7.6
+Nyamulagira,2010 Jan 02,2010 Jan 02,601.000,8.1
+Soufriere Hills,2010 Feb 12,2010 Feb 12,30.000,18.0
+Tengger Caldera,2010 Dec 20,2010 Dec 26,12.000,6.0
+Kizimen,2010 Dec 13,2010 Dec 13,37.000,10.0
+Eyjafjallajokull,2010 Apr 14,2010 Apr 14,466.000,9.0
+Redoubt,2009 Mar 23,2009 Apr 04,159.000,12.0
+Manda Hararo,2009 Jun 29,2009 Jun 29,34.000,5.6
+Sarychev Peak,2009 Jun 15,2009 Jun 15,1200.000,17.0
+Soufriere Hills,2009 Jan 03,2009 Jan 03,8.000,11.0
+Bezymianny,2009 Dec 17,2009 Dec 17,1.000,15.0
+Koryaksky,2009 Aug 16,2009 Aug 16,2.000,4.0
+Fernandina,2009 Apr 11,2009 Apr 11,521.000,3.0
+Llaima,2009 Apr 03,2009 Apr 03,10.000,4.0
+Soputan,2008 Oct 06,2008 Oct 06,16.000,8.0
+Alu-Dalafilla,2008 Nov 03,2008 Nov 03,150.000,16.0
+"Azul, Cerro",2008 May 30,2008 May 30,157.000,3.0
+Etna,2008 May 10,2008 May 13,46.500,5.0
+Chaiten,2008 May 02,2008 May 08,14.000,13.0
+Soputan,2008 Jun 06,2008 Jun 06,33.000,14.0
+Soufriere Hills,2008 Jul 29,2008 Jul 29,3.000,12.0
+Chikurachki,2008 Jul 18,2008 Jul 18,20.000,6.0
+Okmok,2008 Jul 12,2008 Jul 12,150.000,15.0
+Llaima,2008 Jan 01,2008 Jan 01,30.000,13.0
+Soufriere Hills,2008 Dec 03,2008 Dec 03,5.000,12.0
+Kasatochi,2008 Aug 07,2008 Aug 07,2000.000,15.0
+"Tair, Jebel at",2007 Sep 30,2007 Sep 30,80.000,16.0
+Etna,2007 Sep 04,2007 Sep 04,12.000,5.0
+Soputan,2007 Oct 25,2007 Oct 25,12.000,14.0
+Bezymianny,2007 Oct 15,2007 Oct 15,5.000,10.0
+Etna,2007 Nov 24,2007 Nov 24,10.000,7.0
+Krummel-Garbuna-Welcker,2007 Nov 11,2007 Nov 11,1.000,3.0
+Bulusan,2007 May 12,2007 May 12,1.000,6.0
+Etna,2007 Mar 29,2007 Apr 11,10.500,5.0
+Fuego,2007 Mar 15,2007 Mar 15,2.000,6.0
+Chikurachki,2007 Mar 04,2007 Mar 04,30.000,5.0
+Bulusan,2007 Jul 31,2007 Jul 31,1.000,7.0
+Gamkonora,2007 Jul 09,2007 Jul 09,1.000,6.0
+Fuego,2007 Jul 01,2007 Jul 01,2.000,4.0
+Karthala,2007 Jan 12,2007 Jan 12,0.600,7.4
+Soufriere Hills,2007 Jan 08,2007 Jan 08,1.000,9.0
+Fuego,2007 Dec 15,2007 Dec 15,2.000,5.0
+Chikurachki,2007 Aug 19,2007 Aug 19,20.000,5.0
+Soputan,2007 Aug 14,2007 Aug 14,5.000,3.0
+Manda Hararo,2007 Aug 12,2007 Aug 12,26.000,5.6
+Klyuchevskoy,2007 Apr 30,2007 Jul 15,176.000,6.0
+Etna,2007 Apr 29,2007 May 07,6.000,6.0
+Lopevi,2007 Apr 20,2007 Apr 20,12.000,5.0
+Bulusan,2007 Apr 08,2007 Apr 08,0.500,4.0
+"Fournaise, Piton de la",2007 Apr 03,2007 Apr 03,300.000,11.0
+Fourpeaked,2006 Sep 17,2006 Sep 17,1.000,6.0
+Rabaul,2006 Oct 07,2006 Oct 07,300.000,18.0
+Nyamulagira,2006 Nov 27,2006 Nov 27,675.000,15.0
+Etna,2006 Nov 16,2006 Nov 21,9.300,4.0
+Karthala,2006 May 28,2006 May 28,10.000,7.4
+Cleveland,2006 May 23,2006 May 23,0.130,8.0
+Soufriere Hills,2006 May 20,2006 May 20,200.000,20.0
+Bezymianny,2006 May 09,2006 May 09,5.000,15.0
+Bulusan,2006 Mar 21,2006 Mar 21,1.000,7.0
+Merapi,2006 Jun 15,2006 Jun 15,10.000,5.0
+Tungurahua,2006 Jul 15,2006 Jul 15,10.000,12.0
+Augustine,2006 Jan 29,2006 Jan 29,10.000,10.0
+Manam,2006 Feb 27,2006 Feb 27,50.000,19.0
+Tinakula,2006 Feb 12,2006 Feb 12,2.000,3.0
+Soputan,2006 Dec 14,2006 Dec 14,10.000,12.0
+"Fournaise, Piton de la",2006 Aug 31,2006 Aug 31,1.000,7.6
+Tungurahua,2006 Aug 16,2006 Aug 16,30.000,16.0
+Home Reef,2006 Aug 08,2006 Aug 08,25.000,10.0
+Lascar,2006 Apr 18,2006 Apr 18,2.000,8.0
+Barren Island,2006 Apr 05,2006 Apr 05,0.200,5.0
+"Negra, Sierra",2005 Oct 23,2005 Oct 23,1928.000,15.0
+Santa Ana,2005 Oct 01,2005 Oct 01,12.000,14.0
+Karthala,2005 Nov 24,2005 Nov 24,20.000,12.0
+Fernandina,2005 May 13,2005 May 13,150.000,9.0
+Lascar,2005 May 04,2005 May 04,3.000,10.0
+Chikurachki,2005 Mar 12,2005 Mar 12,5.000,5.0
+Soufriere Hills,2005 Jun 28,2005 Jul 18,8.000,7.0
+Manam,2005 Jan 28,2005 Jan 28,140.000,24.0
+"Fournaise, Piton de la",2005 Feb 26,2005 Feb 26,10.000,7.6
+"Fournaise, Piton de la",2005 Dec 27,2005 Dec 27,15.000,7.6
+Soputan,2005 Dec 27,2005 Dec 27,5.000,6.0
+Fuego,2005 Dec 27,2005 Dec 27,1.000,8.0
+Soputan,2005 Apr 20,2005 Apr 20,1.500,3.0
+Karthala,2005 Apr 17,2005 Apr 17,10.000,7.4
+Talang,2005 Apr 12,2005 Apr 12,1.000,8.0
+Anatahan,2005 Apr 05,2005 Sep 03,2324.200,3.0
+Lopevi,2004 Sep 28,2004 Sep 28,22.000,11.4
+Asamayama,2004 Sep 01,2004 Sep 15,101.000,5.0
+Manam,2004 Oct 24,2004 Nov 27,152.000,6.0
+Soputan,2004 Oct 18,2004 Oct 18,10.000,11.8
+"Fournaise, Piton de la",2004 Oct 02,2004 Oct 02,0.500,7.6
+Grimsvotn,2004 Nov 02,2004 Nov 02,30.000,12.0
+Sheveluch,2004 May 10,2004 May 10,1.000,11.0
+Nyamulagira,2004 May 08,2004 May 08,2587.000,4.0
+Soufriere Hills,2004 Mar 03,2004 Mar 03,5.000,7.0
+Bezymianny,2004 Jun 19,2004 Jun 19,1.000,10.0
+Tengger Caldera,2004 Jun 09,2004 Jun 09,31.000,12.3
+Bezymianny,2004 Jan 14,2004 Jan 14,1.000,6.0
+Manam,2004 Dec 20,2004 Dec 20,38.000,17.0
+Soputan,2004 Dec 13,2004 Dec 13,15.000,11.0
+Galeras,2004 Aug 12,2004 Aug 12,3.000,11.0
+Soputan,2003 Sep 01,2003 Sep 01,16.000,11.8
+Anatahan,2003 May 11,2003 Jun 13,494.000,5.0
+Tungurahua,2003 Mar 08,2003 Mar 08,12.000,15.0
+Lopevi,2003 Jun 09,2003 Jun 09,50.000,12.0
+Gamalama,2003 Jul 31,2003 Jul 31,5.000,11.7
+Bezymianny,2003 Jul 26,2003 Jul 26,2.000,11.0
+Soufriere Hills,2003 Jul 13,2003 Jul 13,100.000,16.0
+Ruang,2002 Sep 26,2002 Sep 26,80.000,22.0
+Etna,2002 Oct 27,2002 Oct 27,80.000,13.4
+"Fournaise, Piton de la",2002 Nov 17,2002 Nov 17,4.000,7.6
+Papandayan,2002 Nov 13,2002 Nov 13,7.000,12.7
+Reventador,2002 Nov 03,2002 Nov 03,84.000,17.0
+Manam,2002 May 19,2002 May 19,10.000,9.0
+Nyamulagira,2002 Jul 25,2002 Jul 25,2321.000,5.0
+Nyiragongo,2002 Jan 17,2002 Jan 17,30.000,8.5
+Ulawun,2002 Aug 27,2002 Aug 27,10.000,12.3
+Soufriere Hills,2001 Jul 30,2001 Jul 30,33.000,10.9
+Etna,2001 Jul 25,2001 Jul 25,10.000,8.4
+Popocatepetl,2001 Jan 23,2001 Jan 23,17.000,12.0
+Cleveland,2001 Feb 19,2001 Feb 19,6.000,10.0
+Nyamulagira,2001 Feb 06,2001 Feb 06,1651.000,10.0
+Tungurahua,2001 Aug 06,2001 Aug 06,32.000,13.0
+Ulawun,2001 Apr 30,2001 Apr 30,30.000,14.0
+Popocatepetl,2001 Apr 29,2001 Apr 29,4.000,9.0
+Ulawun,2000 Sep 28,2000 Sep 28,37.000,16.0
+Soufriere Hills,2000 Mar 20,2000 Mar 20,3.400,9.0
+Nyamulagira,2000 Jan 28,2000 Jan 28,317.000,6.0
+Hekla,2000 Feb 26,2000 Feb 26,183.000,11.0
+Popocatepetl,2000 Dec 15,2000 Dec 19,49.000,15.5
+Miyakejima,2000 Aug 18,2000 Aug 28,64.000,5.0
+Tungurahua,1999 Nov 16,1999 Nov 16,6.000,15.0
+Cameroon,1999 Mar 30,1999 Mar 30,45.000,9.1
+Soufriere Hills,1999 Jul 20,1999 Jul 20,16.000,11.1
+Shishaldin,1999 Apr 19,1999 Apr 19,63.000,13.7
+"Azul, Cerro",1998 Sep 15,1998 Sep 15,714.000,15.0
+Nyamulagira,1998 Oct 17,1998 Oct 17,2513.000,8.0
+Manam,1998 Oct 05,1998 Oct 05,17.000,16.0
+Popocatepetl,1998 Nov 25,1998 Nov 25,10.000,15.5
+Soufriere Hills,1998 Nov 12,1998 Nov 12,9.000,8.0
+Soufriere Hills,1998 Jul 03,1998 Jul 03,2.000,12.0
+Popocatepetl,1997 Jul 03,1997 Jul 03,7.000,13.0
+Manam,1997 Feb 08,1997 Feb 08,3.000,16.0
+Soufriere Hills,1997 Dec 26,1997 Dec 26,31.000,11.0
+Grimsvotn,1996 Oct 02,1996 Oct 02,10.000,10.0
+Ruapehu,1996 Jun 17,1996 Jun 17,80.000,10.0
+Ruapehu,1996 Jul 20,1996 Jul 20,10.000,11.0
+Nyamulagira,1996 Dec 01,1996 Dec 01,887.000,6.0
+Rabaul,1994 Sep 19,1994 Sep 19,200.000,20.0
+Klyuchevskoy,1994 Oct 01,1994 Oct 01,150.000,15.0
+Rinjani,1994 Jun 03,1994 Jun 03,10.000,10.0
+Nyamulagira,1994 Jul 05,1994 Jul 05,1514.000,4.0
+Lascar,1993 Apr 19,1993 Apr 19,450.000,16.0
+Spurr,1992 Sep 17,1992 Sep 17,250.000,15.0
+Spurr,1992 Jun 27,1992 Jun 27,250.000,18.0
+Spurr,1992 Aug 18,1992 Aug 18,300.000,13.5
+"Negro, Cerro",1992 Apr 09,1992 Apr 09,10.000,8.0
+Marchena,1991 Sep 26,1991 Sep 26,200.000,2.0
+Nyamulagira,1991 Sep 22,1991 Sep 22,858.000,4.0
+Lokon-Empung,1991 Oct 25,1991 Oct 25,20.000,11.6
+Pinatubo,1991 Jun 13,1991 Jun 15,18194.000,19.0
+Hekla,1991 Jan 20,1991 Jan 20,230.000,6.5
+"Hudson, Cerro",1991 Aug 09,1991 Aug 15,4000.000,12.0
+Fernandina,1991 Apr 20,1991 Apr 20,580.000,8.0
+Redoubt,1990 Mar 09,1990 Mar 09,16.000,13.1
+Klyuchevskoy,1990 Jan 30,1990 Jan 30,10.000,10.0
+Etna,1990 Jan 15,1990 Jan 15,10.000,8.4
+Kelud,1990 Feb 11,1990 Feb 11,150.000,12.0
+Etna,1989 Sep 19,1989 Sep 19,37.000,8.4
+"Ruiz, Nevado del",1989 Sep 01,1989 Sep 01,12.000,15.3
+Pacaya,1989 Mar 09,1989 Mar 09,1.000,3.0
+Lonquimay,1989 Jan 12,1989 Jan 12,10.000,6.0
+Redoubt,1989 Dec 15,1989 Dec 15,140.000,12.0
+Nyamulagira,1989 Apr 24,1989 Apr 24,2105.000,6.0
+Ambrym,1989 Apr 24,1989 Apr 24,25.000,11.3
+Fernandina,1988 Sep 14,1988 Sep 14,280.000,9.0
+Banda Api,1988 May 09,1988 May 09,250.000,16.0
+Makian,1988 Jul 29,1988 Jul 29,50.000,16.0
+Klyuchevskoy,1987 Feb 19,1987 Feb 19,10.000,9.0
+Nyamulagira,1987 Dec 31,1987 Dec 31,28.000,4.0
+Etna,1986 Nov 30,1986 Nov 30,10.000,8.4
+Chikurachki,1986 Nov 20,1986 Dec 02,750.000,11.0
+Izu-Oshima,1986 Nov 19,1986 Nov 19,22.000,10.8
+Ambrym,1986 Nov 15,1986 Nov 15,10.000,11.3
+Kilauea,1986 May 07,1986 May 07,36.200,5.2
+Augustine,1986 Mar 27,1986 Mar 27,20.000,15.0
+Kilauea,1986 Mar 22,1986 Mar 22,5.400,5.2
+Kilauea,1986 Jun 26,1986 Jun 26,37.200,5.2
+Kilauea,1986 Jun 02,1986 Jun 02,48.000,5.2
+Nyamulagira,1986 Jul 16,1986 Jul 16,983.000,9.0
+Kilauea,1986 Jan 27,1986 Jan 27,25.000,5.2
+Kilauea,1986 Jan 01,1986 Jan 01,7.900,5.2
+Kilauea,1986 Feb 22,1986 Feb 22,37.400,5.2
+Pavlof,1986 Apr 19,1986 Apr 19,70.000,16.0
+Kilauea,1986 Apr 13,1986 Apr 13,24.200,5.2
+Kilauea,1985 Sep 24,1985 Sep 24,35.300,5.2
+"Ruiz, Nevado del",1985 Sep 12,1985 Sep 12,90.000,15.0
+Kilauea,1985 Sep 02,1985 Sep 02,57.700,5.2
+Kilauea,1985 Oct 21,1985 Oct 21,23.900,5.2
+Ulawun,1985 Nov 20,1985 Nov 20,70.000,8.0
+"Ruiz, Nevado del",1985 Nov 14,1985 Nov 14,660.000,25.0
+Kilauea,1985 Nov 13,1985 Nov 13,11.000,5.2
+Soputan,1985 May 20,1985 May 20,12.000,11.8
+Kanlaon,1985 Mar 14,1985 Mar 14,10.000,12.4
+Kilauea,1985 Jun 12,1985 Jun 12,30.800,5.2
+Kilauea,1985 Jul 26,1985 Jul 26,17.900,5.2
+Kilauea,1985 Jul 06,1985 Jul 06,33.100,5.2
+Bezymianny,1985 Jul 01,1985 Jul 01,10.000,12.9
+Heard,1985 Jan 14,1985 Jan 14,10.000,7.7
+Kilauea,1985 Jan 03,1985 Jan 03,47.900,5.2
+Kilauea,1985 Feb 04,1985 Feb 04,48.500,5.2
+Kilauea,1985 Apr 21,1985 Apr 21,72.700,5.2
+Kilauea,1984 Sep 19,1984 Sep 19,37.900,5.2
+Mayon,1984 Sep 13,1984 Sep 13,50.000,12.5
+Krafla,1984 Sep 05,1984 Sep 05,375.000,5.8
+Bezymianny,1984 Oct 13,1984 Oct 13,10.000,9.0
+Kilauea,1984 Nov 19,1984 Dec 03,124.100,5.2
+Kilauea,1984 Nov 02,1984 Nov 02,15.200,5.2
+Soputan,1984 May 24,1984 May 24,166.000,16.0
+Fernandina,1984 Mar 31,1984 Mar 31,290.000,5.0
+Mauna Loa,1984 Mar 25,1984 Mar 25,1197.000,11.0
+Kilauea,1984 Mar 04,1984 Mar 04,13.500,5.2
+Kilauea,1984 Jun 30,1984 Jul 08,80.800,5.2
+Kilauea,1984 Jun 07,1984 Jun 07,30.200,5.2
+Kilauea,1984 Jul 28,1984 Jul 28,29.800,5.2
+Kilauea,1984 Jan 30,1984 Feb 14,51.800,5.2
+Nyamulagira,1984 Feb 23,1984 Feb 23,1384.000,5.0
+Soputan,1984 Aug 31,1984 Aug 31,26.000,11.8
+Kilauea,1984 Aug 19,1984 Aug 19,45.900,5.2
+Kilauea,1984 Apr 18,1984 Apr 18,29.800,5.2
+Kilauea,1983 Sep 06,1983 Sep 15,12.600,5.2
+Kilauea,1983 Oct 05,1983 Oct 05,11.600,5.2
+Kilauea,1983 Nov 29,1983 Nov 29,14.500,5.2
+Pavlof,1983 Nov 15,1983 Nov 15,50.000,7.5
+Kilauea,1983 Nov 05,1983 Nov 05,31.800,5.2
+Grimsvotn,1983 May 29,1983 May 29,10.000,8.0
+Kilauea,1983 Mar 29,1983 Mar 29,1.000,5.2
+Colo,1983 Jul 24,1983 Jul 24,200.000,15.0
+Kilauea,1983 Jul 21,1983 Jul 21,11.000,5.2
+Kilauea,1983 Jul 03,1983 Jul 03,5.500,5.2
+Lopevi,1982 Oct 25,1982 Oct 25,27.000,11.4
+Cameroon,1982 Oct 18,1982 Oct 18,3.000,9.1
+Soputan,1982 Nov 10,1982 Nov 10,13.000,11.8
+"Chichon, El",1982 Mar 29,1982 Apr 04,8090.000,17.0
+Galunggung,1982 Jun 24,1982 Jun 24,430.000,14.0
+Galunggung,1982 Jul 13,1982 Jul 17,440.000,12.2
+Wolf,1982 Aug 29,1982 Aug 29,1080.000,4.0
+Soputan,1982 Aug 27,1982 Aug 27,90.000,15.0
+Galunggung,1982 Aug 15,1982 Sep 18,130.000,4.0
+Galunggung,1982 Apr 05,1982 Jun 03,730.000,12.2
+Pagan,1981 May 15,1981 May 15,320.000,20.0
+Bezymianny,1981 Jun 13,1981 Jun 13,10.000,8.0
+Nyamulagira,1981 Dec 25,1981 Dec 25,4122.000,8.0
+Alaid,1981 Apr 27,1981 May 08,1110.000,12.3
+Hekla,1981 Apr 09,1981 Apr 09,10.000,7.0
+Etna,1980 Sep 02,1980 Sep 06,70.000,9.0
+Krafla,1980 Oct 19,1980 Oct 19,60.000,5.8
+Ulawun,1980 Oct 07,1980 Oct 07,200.000,20.0
+St. Helens,1980 May 18,1980 May 25,875.000,14.0
+Makushin,1980 May 01,1980 May 01,10.000,12.0
+St. Helens,1980 Jun 13,1980 Jun 13,35.000,16.0
+Krafla,1980 Jul 11,1980 Jul 11,250.000,5.8
+Nyamulagira,1980 Jan 31,1980 Jan 31,884.000,8.0
+Lopevi,1980 Aug 18,1980 Aug 18,38.000,11.4
+Hekla,1980 Aug 18,1980 Aug 18,460.000,15.0
+"Negra, Sierra",1979 Nov 13,1979 Nov 13,2524.000,14.0
+Karkar,1979 Mar 08,1979 Mar 08,50.000,11.8
+"Azul, Cerro",1979 Feb 01,1979 Feb 01,358.000,2.0
+Etna,1979 Aug 04,1979 Aug 04,10.000,8.4
+Soufriere St. Vincent,1979 Apr 13,1979 Apr 13,3.000,18.0
+Ambrym,1978 Dec 05,1978 Dec 05,87.000,11.3
